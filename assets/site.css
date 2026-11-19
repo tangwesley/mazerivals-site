@@ -78,6 +78,7 @@ h2 { margin: 2.5rem 0 1rem; font-size: 1.5rem; line-height: 1.25; }
 .doc ul, .doc ol { padding-left: 1.4rem; }
 .doc li { margin: 0.35rem 0; }
 .doc p { margin: 0.75rem 0; }
+.notice { margin: 1rem 0 1.5rem; padding: 0.8rem 1rem; background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--accent); border-radius: 0.5rem; }
 
 footer.site { border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9375rem; }
 footer.site .wrap { padding-top: 1.5rem; padding-bottom: 2rem; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.75rem 2rem; }
