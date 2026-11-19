@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Maze Rivals">
+  <rect width="64" height="64" rx="12" fill="#101B2E"/>
+  <polygon points="32,10 56,24 32,38 8,24" fill="#8AB866"/>
+  <polygon points="8,24 32,38 32,50 8,36" fill="#4A382F"/>
+  <polygon points="56,24 32,38 32,50 56,36" fill="#3A2B25"/>
+  <polygon points="32,12 42,18 32,24 22,18" fill="#B4B9C2"/>
+  <polygon points="22,18 32,24 32,32 22,26" fill="#8D939D"/>
+  <polygon points="42,18 32,24 32,32 42,26" fill="#737984"/>
+</svg>
